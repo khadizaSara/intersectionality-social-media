@@ -1,2 +1,22 @@
-# intersectionality-social-media
-Analyzing double marginalization of minority women in the Global South on social media using datasets, HCI insights, and pattern recognition. 
+# Intersectionality on Social Media Analysis
+
+## Project Overview
+
+This project investigates the experiences of minority women on social media. It utilizes two publicly available datasets: the first examines the prevalence of hate and harassment directed at minority women, while the second explores differences in perception across various social groups.  
+
+In addition to the data analysis, the study incorporates qualitative insights from interviews conducted with two individuals belonging to minority communities in Bangladesh. These interviews provide contextual understanding and enrich the interpretation of the findings.
+
+## Objectives
+
+- To analyze the patterns of hate speech and harassment faced by minority women on social media.
+- To examine differences in perception across different demographic groups.
+- To complement quantitative analysis with qualitative insights from interviews.
+
+## Contents
+
+- `notebooks/` – Jupyter notebook containing the data analysis.  
+- `report/` – Final report summarizing methods, results, and interpretations.  
+- `results/` – Visualizations and outputs generated from the analysis.  
+- `README.md` – Project description.  
+- `requirements.txt` – Python dependencies for reproducing the analysis.  
+- `.gitignore` – Files and directories excluded from version control.
