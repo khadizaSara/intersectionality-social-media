@@ -1,6 +1,6 @@
 # Intersectionality on Social Media
 
-A project for my Pattern Recognition course.
+A project on hate speech and intersectionality on social media.
 
 ---
 
